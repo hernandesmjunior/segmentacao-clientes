@@ -9,6 +9,7 @@ Neste trabalho desenvolvido em R e utilizando o algoritmo de Machine Learning K-
 <br>
 Ilustração de capa: Form From
 
+<br>
 <div style="background:#fff7f7;padding:6px 26px;margin:18px 0;">
 <p style="font-weight:800;margin-bottom:4px;">ROTEIRO</p>
 <div style="color:#2D2A32;line-height:1.7;"><ol style="color:#2D2A32;line-height:1.7;">
